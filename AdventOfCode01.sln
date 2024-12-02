@@ -1,9 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode01", "AdventOfCode01\AdventOfCode01.csproj", "{EBD97905-4B75-4F90-8304-ABCD5E6F90BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventofCode0102", "AdventofCode0102\AdventofCode0102.csproj", "{3CDC3106-C568-401D-B4CF-488AE4F5A72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode0201", "AdvenOfCode0201\AdvenOfCode0201.csproj", "{7E9C85E6-A319-4F66-900A-AF9672D9EED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode0202", "AdventOfCode0202\AdventOfCode0202.csproj", "{C9A0DFB0-832F-4FE4-BD41-1C22C97E2B2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +24,17 @@ Global
 		{EBD97905-4B75-4F90-8304-ABCD5E6F90BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD97905-4B75-4F90-8304-ABCD5E6F90BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD97905-4B75-4F90-8304-ABCD5E6F90BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDC3106-C568-401D-B4CF-488AE4F5A72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDC3106-C568-401D-B4CF-488AE4F5A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDC3106-C568-401D-B4CF-488AE4F5A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDC3106-C568-401D-B4CF-488AE4F5A72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9C85E6-A319-4F66-900A-AF9672D9EED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9C85E6-A319-4F66-900A-AF9672D9EED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9C85E6-A319-4F66-900A-AF9672D9EED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9C85E6-A319-4F66-900A-AF9672D9EED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A0DFB0-832F-4FE4-BD41-1C22C97E2B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A0DFB0-832F-4FE4-BD41-1C22C97E2B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A0DFB0-832F-4FE4-BD41-1C22C97E2B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A0DFB0-832F-4FE4-BD41-1C22C97E2B2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

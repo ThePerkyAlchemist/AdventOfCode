@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdvenOfCode0201/1.0.0": {
+        "runtime": {
+          "AdvenOfCode0201.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvenOfCode0201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
