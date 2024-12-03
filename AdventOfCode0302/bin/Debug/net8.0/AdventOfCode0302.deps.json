@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdventOfCode0302/1.0.0": {
+        "runtime": {
+          "AdventOfCode0302.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCode0302/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
